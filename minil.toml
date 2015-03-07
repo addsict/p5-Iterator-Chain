@@ -1,0 +1,4 @@
+name = "Iterator-Chain"
+# badges = ["travis"]
+module_maker="ModuleBuildTiny"
+
